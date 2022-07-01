@@ -1,0 +1,48 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.Container{
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+
+.Menu{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+}
+
+.Banner {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(23, 172, 172);
+}
+
+.Main1{
+    background-color: blueviolet;
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+
+.Main1-Left{
+    background-color: rgb(25, 37, 150);
+    width: 400px;
+    height: 300px;
+}
+
+.Main1-Center{
+    background-color: rgb(108, 113, 153);
+    width: 400px;
+    height: 300px;
+}
+
+.Main1-Right{
+    background-color: rgb(69, 69, 75);
+    width: 400px;
+    height: 300px;
+}
